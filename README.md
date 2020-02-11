@@ -1,2 +1,2 @@
-# au50_platform
+# AU50_Platform
 ALVEO U50 Custom Platform
